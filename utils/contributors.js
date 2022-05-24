@@ -83,7 +83,7 @@ const CONTRIBUTERS = [
                     <lord-icon src="https://cdn.lordicon.com/jpdtnwas.json" trigger="loop" colors="primary:#121331,secondary:#e88c30" style="width:25px;height:25px"></lord-icon>
             </div>
         `,
-        github: "https://github.com/debarati-06",
+        github: "https://github.com/raiharsh1811",
     },
 ];
 
